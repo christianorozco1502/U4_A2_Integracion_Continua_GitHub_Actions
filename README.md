@@ -1,3 +1,7 @@
+[![CI](https://github.com/christianorozco1502/U4_A2_Integracion_Continua_GitHub_Actions/actions/workflows/ci.yml/badge.svg)](https://github.com/christianorozco1502/U4_A2_Integracion_Continua_GitHub_Actions/actions/workflows/ci.yml)
+
+[![Coverage](https://codecov.io/gh/christianorozco1502/U4_A2_Integracion_Continua_GitHub_Actions/graph/badge.svg)](https://codecov.io/gh/christianorozco1502/U4_A2_Integracion_Continua_GitHub_Actions)
+
 Cobertura de pruebas
 Modelos (test_models.py):
 Se realizaron 2 pruebas para comprobar la creación de videojuegos y usuarios, así como la verificación de contraseñas.
